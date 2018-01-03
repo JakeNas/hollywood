@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+
+}
+
+.header {
+    background-image: url("/Users/jakenassau/projects/hollywood/resources/images/flatiron.png");
+    color: white;
+}
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+  font-size: 11px;
+}
+
+#link {
+  color: white;
+  font-size: 18px;
+}
+
+.subheader {
+
+}
